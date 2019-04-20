@@ -1,0 +1,22 @@
+{
+  "name": "sass_project_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isitme/sass_starter.git"
+  },
+  "author": "Rakibul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isitme/sass_starter/issues"
+  },
+  "homepage": "https://github.com/isitme/sass_starter#readme",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
