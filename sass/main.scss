@@ -1,0 +1,20 @@
+//Base
+@import 'abstractes/functions';
+@import 'abstractes/variables';
+@import 'abstractes/mixins';
+
+//Abstractes
+@import 'base/animation';
+@import 'base/base';
+@import 'base/typography';
+@import 'base/utility';
+//pages
+@import 'pages/home';
+
+//Components
+
+//Layout
+@import 'layout/grid';
+@import 'layout/header';
+@import 'layout/footer';
+
